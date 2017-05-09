@@ -4,5 +4,6 @@ public with sharing class EvenOdd
     public void test(int i)
     {
     	IF(MOD(i, 2) = 0, 'EVEN' , 'ODD');
+    	d
     }
 }
